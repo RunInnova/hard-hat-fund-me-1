@@ -1,6 +1,6 @@
 {
   "name": "hardhat-fund-me",
-  "author": "RunnInova",
+  "Author": "RunnInova",
   "version": "1.0.0",
   "devDependencies": {
     "@ethersproject/abi": "^5.4.7",
